@@ -155,25 +155,8 @@ echo +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 echo +                            Developed by                                    +
 echo +                      Rohit99 a.k.a stormtheh4ck3r                          +
 echo +      xda profile :http://forum.xda-developers.com/member.php?u=5684029     +
+echo +      xda thread : http://goo.gl/XHXVDt                                     +
 echo ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++               
 echo Press any key to continue
 pause > nul
 GOTO RESTART
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
