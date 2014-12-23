@@ -16,6 +16,7 @@ echo ***************************************************************************
 echo *                         BOOT ANIMATION INSTALLER                           *
 echo *                                  By                                        *
 echo *                        Rohit99 a.k.a stormtheh4ck3r                        *
+echo *                                                                            *
 echo ******************************************************************************
 echo *     NOTE:                                                                  *
 echo *     (*) Only for ROOTED phones                                             *
